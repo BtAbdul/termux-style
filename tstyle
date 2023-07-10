@@ -1,9 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-## Author  : Aditya Shakya
-## Twitter : @adi1090x
-## Github  : @adi1090x
-## Reddit  : @adi1090x
 
 ## A simple script to change color-schemes & fonts of termux terminal emulator.
 
@@ -29,7 +25,7 @@ banner () {
     ${BLUE}│${RED}░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄${ORANGE}░▄▄▄${RED}░${GREEN}▀▀█░░█░░░█░░█░░░█▀▀░░${BLUE}│
     ${BLUE}│${RED}░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀${ORANGE}░░░░░${GREEN}▀▀▀░░▀░░░▀░░▀▀▀░▀▀▀░░${BLUE}│
     ${BLUE}└──────────────────────────────────────────────────┘
-    ${BLUE}[${RED}*${BLUE}] ${ORANGE}By- Aditya Shakya ${RED}//${ORANGE} adi1090x"
+    ${BLUE}[${RED}*${BLUE}] ${ORANGE} System ${RED}${ORANGE} Breaker"
 }
 
 ## Script Termination
@@ -196,10 +192,10 @@ about_program () {
     │     appearance of the termux terminal emulator.               │
     │                                                               │
     │                                                               │
-    │ >>  Author   :  Aditya Shakya                                 │
-    │     Twitter  :  https://twitter.com/adi1090x                  │
-    │     Github   :  https://github.com/adi1090x                   │
-    │     Reddit   :  https://www.reddit.com/user/adi1090x          │
+    │ >>  Author   :  Bt Abdul                                      │
+    │     Twitter  :  https://twitter.com/btabdul                   │
+    │     Github   :  https://github.com/btabdul                    │
+    │     Reddit   :  https://www.reddit.com/user/btabdul           │
     │                                                               │
     └───────────────────────────────────────────────────────────────┘"
     { echo; read -p "    ${BLUE}[${RED}*${BLUE}] ${GREEN}Press ${GREENBG}${BLACK} Enter ${DEFAULT_BG}${GREEN} To Return To Main Menu."; }
